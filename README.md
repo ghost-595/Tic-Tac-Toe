@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Simple gui tic-tac-toe game written in java
+Simple gui based tic-tac-toe game written in java
